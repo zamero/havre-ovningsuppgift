@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(21, 21, 21);
+    color: aliceblue;
+}
+
+.smallimg {
+    width: 300px;
+    border: 2px solid blanchedalmond;
+    border-radius: 0.2em;
+    margin-left: 15px;
+}
+
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+ol {
+    display: inline-block;
+    text-align: left;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+}
+
+.tabortpunkt {
+    list-style-type: none;
+}
+
+#mindrebild {
+    width: 80%;
+    border: 2px solid blanchedalmond;
+    border-radius: 0.2em;
+}
+
+.cube {
+    margin: 0 25%;
+}
+
+h1 h2 {
+    text-transform: capitalize;
+}
